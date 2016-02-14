@@ -1,8 +1,8 @@
-# monocolor-blue-syntax theme
+# monocolor-red-syntax theme
 
 Single color syntax theme for dark Atom UIs
 
 Based on [**MaterializeCSS**](http://materializecss.com/color.html) colors;
-base color: blue;
+base color: red;
 
-![monocolor-blue screenshot](http://144.76.103.88/webforge_static/atom/monocolor-red.jpg)
+![monocolor-red screenshot](http://144.76.103.88/webforge_static/atom/monocolor-red.jpg)
